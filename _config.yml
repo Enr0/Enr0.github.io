@@ -1,5 +1,5 @@
 remote_theme: pages-themes/cayman@v0.2.0
 plugins:
 - jekyll-remote-theme
-title: "Don't Trust Social Media"
+# title: "Protect Yourself"
 description: "You're being targeted by disinformation networks that are vastly more effective than you realize. And they're making you more hateful and depressed."
