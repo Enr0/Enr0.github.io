@@ -1,5 +1,7 @@
 All credit goes to the original author of this work, previously shared on reddit [here](https://old.reddit.com/r/self/comments/1gouvit/youre_being_targeted_by_disinformation_networks/).
 
+---
+
 **TL;DR:** You know that Russia and other governments try to manipulate people online.  But you almost certainly don't how just how effectively orchestrated influence networks are using social media platforms to make you -- individually-- angry, depressed, and hateful toward each other. Those networks' goal is simple: to cause Americans and other Westerners -- especially young ones -- to give up on social cohesion and to give up on learning the truth, so that Western countries lack the will to stand up to authoritarians and extremists.
 
 And you probably don't realize how well it's working on you.
