@@ -1,4 +1,4 @@
-All credit goes to [/u/walkandtalkk](https://reddit.com/user/walkandtalkk), the author of this work. You can read the original post on [reddit](https://reddit.com/r/self/comments/1gouvit/youre_being_targeted_by_disinformation_networks/).
+All credit goes to [/u/walkandtalkk](https://reddit.com/user/walkandtalkk), the author of this work. You can read the original post on [reddit](https://reddit.com/r/self/comments/1gouvit/youre_being_targeted_by_disinformation_networks/). I have made some minor formatting and typo edits but the original content is unchanged.
 
 ---
 
